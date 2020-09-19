@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Açaí",
+        "origem": "Pará (Brasil)",
+        "doce": true
+    },
+    {
+        "nome": "Cuscuz nordestino",
+        "origem": "Pernambuco, mas cuscuz original veio de Maghreb (norte da África)",
+        "doce": false
+    },
+    {
+        "nome": "Macaxeira",
+        "origem": "América do Sul (Brasil)",
+        "doce": false
+    },
+    {
+        "nome": "Pamonha",
+        "origem": "Indígena (Brasil)",
+        "doce": true
+    },
+    {
+        "nome": "Tapioca",
+        "origem": "Pará (Brasil)",
+        "doce": ["true", "false"]
+    },
+    {
+        "nome": "Canjica",
+        "origem": ["Angola", "Congo"],
+        "doce": true
+    },
+    {
+        "nome": "Bolo de rolo",
+        "origem": "Pernambuco (Brasil)",
+        "doce": true
+    },
+    {
+        "nome": "Pastel de Belém",
+        "origem": "Lisboa (Portugal)",
+        "doce": true
+    },
+    {
+        "nome": "Churros",
+        "origem": "incerta, mas considera-se de origem espanhola",
+        "doce": true
+    },
+    {
+        "nome": "Pizza",
+        "origem": "incerta, mas como conhecemos hoje, considera-se de origem italiana",
+        "doce": ["false", "true"]
+    }
+]

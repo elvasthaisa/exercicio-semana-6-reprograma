@@ -1,0 +1,53 @@
+[
+    {
+        "youtuber": "Whindersson Nunes",
+        "numeroInscritos": "40.8 milhões",
+        "conteudo": "entretenimento"
+    },
+
+    {
+        "youtuber": "Felipe Neto",
+        "numeroInscritos": "39.5 milhões",
+        "conteudo": "entretenimento"
+    },
+    {
+        "youtuber": "Instituto Ricardo Melo",
+        "numeroInscritos": "215 mil",
+        "conteudo": "Brasil"
+    },
+    {
+        "youtuber": "Sweet Carol",
+        "numeroInscritos": "1.75 milhões",
+        "conteudo": "ASMR"
+    },
+    {
+        "youtuber": "Cadê a Chave",
+        "numeroInscritos": "4.03 milhões",
+        "conteudo": "entretenimento"
+    },
+    {
+        "youtuber": "Canal Nostalgia",
+        "numeroInscritos": "13.2 milhões",
+        "conteudo": ["nostalgia", "informação"]
+    },
+    {
+        "youtuber": "França Mon Amour",
+        "numeroInscritos": "12 mil",
+        "conteudo": "dicas de francês"
+    },
+    {
+        "youtuber": "La Cuisine de Jean-Philippe",
+        "numeroInscritos": "45,6 mil inscritos",
+        "conteudo": "culinária vegana"
+    },
+    {
+        "youtuber": "SmallAdvantages",
+        "numeroInscritos": "1.85 milhões",
+        "conteudo": "dicas de inglês"
+    },
+    {
+        "youtuber": "Fun Fun Function",
+        "numeroInscritos": "244 mil inscritos",
+        "conteudo": "dicas de programação"
+    }
+]
