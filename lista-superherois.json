@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Homem Aranha",
+        "superpoder": "sensor aranha",
+        "universo": "Marvel"
+    },
+    {
+        "nome": "Capitão América",
+        "superpoder": ["força", "velocidade"],
+        "universo": "Marvel"
+    },
+    {
+        "nome": "Wolverine",
+        "superpoder": "cura",
+        "universo": "DC"
+    },
+    {
+        "nome": "Hulk",
+        "superpoder": ["força", "fator de cura"],
+        "universo": "Marvel"
+    },
+    {
+        "nome": "Batman",
+        "superpoder": "inteligência",
+        "universo": "DC"
+    },
+    {
+        "nome": "Homem de Ferro",
+        "superpoder": ["velocidade", "durabilidade", "força"],
+        "universo": "Marvel"
+    },
+    {
+        "nome": "Viúva Negra",
+        "superpoder": ["super reflexo", "fator de cura", "resiste ao envelhecimento"],
+        "universo": "Marvel"
+    },
+    {
+        "nome": "Pantera Negra",
+        "superpoder": ["resistência", "fator de cura", "velocidade"],
+        "universo": "Marvel"
+    },
+    {
+        "nome": "Mulher Maravilha",
+        "superpoder": ["capacidade de voo", "telepatia", "super resistência"],
+        "universo": "DC"
+    },
+    {
+        "nome": "Thor",
+        "superpoder": ["força divina", "super sopro", "capacidade de voo com Mjölnir"],
+        "universo": "Marvel"
+    }
+]
